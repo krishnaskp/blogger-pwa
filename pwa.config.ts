@@ -3,9 +3,9 @@ import { defineConfig } from '@/types/config';
 export default defineConfig({
   manifest: {
     id: '/',
-    name: 'My Blog',
-    short_name: 'My Blog',
-    description: 'My blog description goes here...',
+    name: 'UniTyping.com Online Typing Tutor Software',
+    short_name: 'UniTyping.com',
+    description: 'Boost your typing speed at UniTyping.com! Practice Hindi (Krutidev 010) and English (Qwerty) typing online without downloading any software. Get real-time WPM and accuracy reports. Perfect for LDC, High Court, SSC and Govt job prep. Try it free today!',
     dir: 'auto',
     lang: 'en-US',
     background_color: '#fff',
