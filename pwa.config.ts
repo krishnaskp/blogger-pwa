@@ -11,7 +11,7 @@ export default defineConfig({
     background_color: '#fff',
     theme_color: '#fff',
     display: 'standalone',
-    orientation: 'natural',
+    orientation: 'any',
     scope: '/',
     start_url: '/?utm_source=homescreen',
     prefer_related_applications: false,
